@@ -1,5 +1,5 @@
 # Quicksilver
-Automatically fetches the lyrics of the currently playing song and display them in your terminal!
+Automatically fetch the lyrics of the currently playing song and display them in your terminal!
 
 ![lyrics](https://cdn.discordapp.com/attachments/1142900449662468186/1143013981972344933/photo_5120808238105865551_w.jpg)
 ## Supported Players

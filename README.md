@@ -1,4 +1,4 @@
-# Lyrics-In-Terminal
+# Quicksilver
 [![GitHub release](https://img.shields.io/github/release/Jugran/lyrics-in-terminal/all.svg)](https://github.com/Jugran/lyrics-in-terminal/releases)
 [![GitHub license](https://img.shields.io/github/license/Jugran/lyrics-in-terminal.svg)](https://github.com/Jugran/lyrics-in-terminal/blob/master/LICENSE)
 [![PyPI version shields.io](https://img.shields.io/pypi/v/lyrics-in-terminal.svg)](https://pypi.python.org/pypi/lyrics-in-terminal/)

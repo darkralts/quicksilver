@@ -7,7 +7,7 @@
 
 Shows lyrics of songs from your favourite music player in terminal.
 
-![lyrics](https://files.catbox.moe/lmqfuh.jpg)
+![lyrics](https://cdn.discordapp.com/attachments/1142900449662468186/1143013981972344933/photo_5120808238105865551_w.jpg)
 ## Supported Players
 Almost all of the mpris specification compliant media players are supported, including -
 * Spotify

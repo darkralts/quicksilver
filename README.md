@@ -4,6 +4,7 @@ Automatically fetch the lyrics of the currently playing song and display them in
 ![lyrics](https://cdn.discordapp.com/attachments/1142900449662468186/1143013981972344933/photo_5120808238105865551_w.jpg)
 ## Supported Players
 Quicksilver uses the MPRIS interface to fetch the title, artist, and album names, which it then uses to fetch the lyrics.
+forked from lyrics-in-terminal which hasnt had an update since [Jun 29, 2022](https://github.com/Jugran/lyrics-in-terminal/commit/1661dac6f2b97b29467e8e76c4ddc024a682ec7e) in hopes of fixing the lyrics sources and expanding and fixing some bugs.
 
 Examples of players with MPRIS support:
 * Spotify

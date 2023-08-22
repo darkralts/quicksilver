@@ -17,7 +17,7 @@ Examples of players with MPRIS support:
 
 > For MPD player support install `python-mpd2` package as well.
 
-  forked from lyrics-in-terminal which hasnt had an update since [Jun 29, 2022](https://github.com/Jugran/lyrics-in-terminal/commit/1661dac6f2b97b29467e8e76c4ddc024a682ec7e) in hopes of fixing the lyrics sources and expanding and fixing some bugs.
+forked from [lyrics-in-terminal](https://github.com/Jugran/lyrics-in-terminal) which hasnt had an update since [Jun 29, 2022](https://github.com/Jugran/lyrics-in-terminal/commit/1661dac6f2b97b29467e8e76c4ddc024a682ec7e) in hopes of fixing the lyrics sources and expanding and fixing some bugs.
 
 
 

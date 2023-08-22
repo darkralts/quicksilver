@@ -19,3 +19,4 @@ Quicksilver uses the MPRIS interface to fetch the title, artist, and album names
 * Auto Scrolling Lyrics
 * Add YouTube Music as the main lyrics source
 * minor appearance tweaks
+* a method of detecting when the lyrics are wrong and chosing a different song/source

@@ -1,5 +1,6 @@
 # Quicksilver
 Automatically fetch the lyrics of the currently playing song and display them in your terminal!
+![lyrics](images/based.gif)
 
 ## Supported Players
 Quicksilver uses the MPRIS interface to fetch the title, artist, and album names, which it then uses to fetch the lyrics.
